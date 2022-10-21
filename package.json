@@ -1,8 +1,8 @@
 {
-  "name": "ufam-test",
+  "name": "nest-project",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Nest project with Prisma.",
+  "author": "ivfernandes",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
